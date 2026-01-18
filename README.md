@@ -28,7 +28,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# 🏆 award 🏆
+# 🏆 Award 🏆
 <a href="https://github.com/CBNU-SUPER-NOVA/PC_Supporter">PC Supporter</a><br/>
 - [2024 공개 SW 개발자 대회 - 우수작 선정](https://www.kossa.kr/materials/2024/ossp/ebook/index.html)
 - 2024 충북 스마트&디지털 페스티벌 - 우수상
