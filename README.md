@@ -108,6 +108,7 @@
 
 ---
 
-## 🔗 Links
+## 🔗 Contact/Links
 
+- ✉️ Email : wns1169@gmail.com
 - 📒 Velog : https://velog.io/@sangjuneeeee  
