@@ -34,33 +34,33 @@
 
 # 🎞️ Project 🎞️
 
-### [독서 경험 향상 및 사용자 맞춤형 도서 지원 플랫폼](https://github.com/Beat-to-the-Book/FE)
+## [독서 경험 향상 및 사용자 맞춤형 도서 지원 플랫폼](https://github.com/Beat-to-the-Book/FE)
 <img width="420" height="594" alt="image" src="https://github.com/user-attachments/assets/f29d11df-45ea-4ef2-a43e-234eb9f48df7" />
 
 [시연 영상](https://youtu.be/aGCYnfnQp1A)
 
 
 
-### [PC Supporter](https://github.com/CBNU-SUPER-NOVA/PC_Supporter)
+## [PC Supporter](https://github.com/CBNU-SUPER-NOVA/PC_Supporter)
 <img width="420" height="594" alt="Frame 1" src="https://github.com/user-attachments/assets/801aa39a-dd18-4865-b8f6-0db743ee2a65" />
 
 [시연 영상](https://www.youtube.com/watch?v=2zZQIudnIdQ)
 
-### [사소하지 않아](https://github.com/sangjuneeeee/not-trivial)
+## [사소하지 않아](https://github.com/sangjuneeeee/not-trivial)
 
 
 [사소하지 않아 사이트 바로가기](https://not-trivial.vercel.app/)
 
 
-### [수어 번역 모델](https://github.com/CBNU-AI-ASURA/SignLanguageModel)
+## [수어 번역 모델](https://github.com/CBNU-AI-ASURA/SignLanguageModel)
 
 https://github.com/user-attachments/assets/5a376d1b-6026-4bda-b6d9-9e73af665fca
 
-### [I am Mr.Bob](https://github.com/sangjuneeeee/I_am_Mr.Bob)
+## [I am Mr.Bob](https://github.com/sangjuneeeee/I_am_Mr.Bob)
 
 [I am Mr.Bob 사이트 바로가기](sangjuneeeee.github.io/I_am_Mr.Bob/)
 
-### [Temporal Fusion Text](https://github.com/sangjuneeeee/temporal-fusion-text)
+## [Temporal Fusion Text](https://github.com/sangjuneeeee/temporal-fusion-text)
 
 [Temporal Fusion Text 사용 예시 사이트 바로가기](https://sangjuneeeee.github.io/temporal-fusion-text/)
 
