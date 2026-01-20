@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/5a376d1b-6026-4bda-b6d9-9e73af665fca
 
 ## [I am Mr.Bob](https://github.com/sangjuneeeee/I_am_Mr.Bob)
 
-[I am Mr.Bob 사이트 바로가기](sangjuneeeee.github.io/I_am_Mr.Bob/)
+[I am Mr.Bob 사이트 바로가기](https://sangjuneeeee.github.io/I_am_Mr.Bob/)
 
 ## [Temporal Fusion Text](https://github.com/sangjuneeeee/temporal-fusion-text)
 
