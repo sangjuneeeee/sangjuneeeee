@@ -18,19 +18,30 @@
 # ☁️ Deploy ☁️
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
-# 🔬 CI/CD
+# 🔬 CI/CD 🔬
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   
-# 🎨 Design 
+# 🎨 Design 🎨
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   
-# 💾 Databases 
+# 💾 Databases 💾
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 🏆 Award 🏆
-<a href="https://github.com/CBNU-SUPER-NOVA/PC_Supporter">PC Supporter</a><br/>
-- [2024 공개 SW 개발자 대회 - 우수작 선정](https://www.kossa.kr/materials/2024/ossp/ebook/index.html)
-- 2024 충북 스마트&디지털 페스티벌 - 우수상
+[2024 공개 SW 개발자 대회 - 우수작 선정](https://www.kossa.kr/materials/2024/ossp/ebook/index.html)<br/>
+2024 충북 스마트&디지털 페스티벌 - 우수상
+
+# 🎞️ Project 🎞️
+
+### [독서 경험 향상 및 사용자 맞춤형 도서 지원 플랫폼](https://github.com/Beat-to-the-Book/FE)
+
+### [PC Supporter](https://github.com/CBNU-SUPER-NOVA/PC_Supporter)
+### [사소하지 않아](https://github.com/sangjuneeeee/not-trivial)
+https://not-trivial.vercel.app/
+### [수어 번역 모델](https://github.com/CBNU-AI-ASURA/SignLanguageModel)
+### [I am Mr.Bob](https://github.com/sangjuneeeee/I_am_Mr.Bob)
+실시간 드로잉 웹 사이트
+### [Temporal Fusion Text](https://github.com/sangjuneeeee/temporal-fusion-text)
 
 </div>
