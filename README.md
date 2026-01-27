@@ -1,114 +1,153 @@
-# 👋 안녕하세요,  
-사용자 경험을 중심으로 문제를 해결하는 프론트엔드 개발자입니다.
+# 👋 안녕하세요,
+사용자 경험을 중심으로 문제를 구조화하는 프론트엔드 개발자 박상준입니다.
 
-기능이 많다고 해서 좋은 서비스가 된다고 생각하지 않습니다.  
-사용자가 어떤 맥락에서 이 기능을 마주하게 되는지,  
-그리고 그 선택이 어떤 경험으로 남을지를 먼저 고민하며 개발합니다.
+저는 프론트엔드 개발을 단순한 화면 구현이 아니라  
+**사용자가 문제를 어떻게 인식하고, 어떤 선택을 하게 되는지를 설계하는 역할**이라고 생각합니다.
+
+기능이 많다고 해서 좋은 서비스가 되지는 않으며,  
+사용자가 이해하지 못하거나 신뢰하지 못하는 기능은 결국 사용되지 않는다고 믿습니다.  
+그래서 화면을 그리기 전에 항상 **사용자 행동 흐름과 선택의 결과**를 먼저 정의합니다.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- Role : Front-End Developer  
-- Interest : 사용자 경험(UX), 인터랙션 설계, 협업 중심 개발  
-- Value : 기술을 통해 사용자가 부담 없이 머물 수 있는 서비스 만들기  
+- Role : Frontend Developer  
+- Interest : 사용자 경험(UX), 인터랙션 설계, 구조 중심 프론트엔드  
+- Value : 기술보다 사용 맥락을 먼저 고민하는 개발  
+
+기능 구현보다 사용자의 행동과 감정 흐름을 기준으로 문제를 정의합니다.  
+팀 프로젝트에서는 UI/UX 구조 설계와 화면 흐름 정리를 주도하며,  
+디자인과 개발 간 의사결정 기준을 정리하는 역할을 맡아왔습니다.  
+
+프론트엔드 개발자가 서비스 구조에 책임을 져야 한다는 관점으로 개발합니다.
 
 ---
 
 ## 🔍 What I Value
 
-- 기능 구현보다 사용자가 서비스를 이용하는 전체 흐름과 맥락을 중요하게 생각합니다.
-- 이 기능이 실제로 사용될지, 사용자의 행동과 감정에 어떤 영향을 주는지를 먼저 고민합니다.
-- 팀 프로젝트에서는 디자인과 화면 흐름 설계를 맡아, 방향성을 정리하는 역할을 자주 담당했습니다.
-- 프로젝트가 원활하게 진행되고 결과가 잘 나올 수 있도록 전체 구조를 함께 고민합니다.
+1. 문제를 먼저 정의하고, 기술은 그 다음에 선택합니다.  
+2. 복잡한 요구사항을 단순한 흐름으로 추상화하는 것을 중요하게 생각합니다.  
+3. 사용자가 부담 없이 머물 수 있는 경험을 만드는 것을 목표로 합니다.  
+
+항상 아래 질문을 설계의 출발점으로 삼습니다.
+
+- 이 기능이 정말 필요한가?  
+- 이 흐름이 사용자를 혼란스럽게 만들지는 않는가?  
+- 이 선택이 사용자에게 어떤 감정으로 남을까?  
 
 ---
 
 ## 🛠 Tech Stack
 
-### ✨ Front-End ✨
-<div align="center">
+### Frontend
+- JavaScript (ES6+), TypeScript  
+- React, Next.js  
+- Tailwind CSS, Styled-components, StyleX  
+- Zustand, Axios, React Hook Form, Zod  
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)<br/>
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Backend / Infra
+- Node.js  
+- PostgreSQL, MySQL, MongoDB  
+- Prisma ORM  
+- GitHub Actions, Docker, Vercel  
 
-</div>
-
-### ☁️ Deploy ☁️
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-### 🔬 CI/CD 🔬
-<div align="center">
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
-### 🎨 Design 🎨
-<div align="center">
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-</div>
-
-### 💾 Databases 💾
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
+### Tools
+- Git / GitHub  
+- Figma  
 
 ---
 
 ## 🚀 Projects
 
+---
+
+### 🌱 사소하지 않아  
+**비교와 평가를 최소화하고, 조용한 인정 경험을 제공하는 감정 기반 커뮤니티**
+
+🔗 Service : https://not-trivial.vercel.app/  
+🔗 GitHub : https://github.com/sangjuneeeee/not-trivial  
+
+#### 프로젝트 목적
+현대 SNS 환경에서 발생하는 비교, 평가, 경쟁으로 인한 피로감을  
+**구조적으로 줄일 수 있는 서비스 경험을 직접 설계하고 검증**하고자 했습니다.
+
+단순한 기능 구현이 아니라  
+“이 기능이 사용자에게 어떤 감정을 남기는가”를 기준으로  
+UI, 인터랙션, 데이터 구조를 설계하는 것을 목표로 했습니다.
+
+#### 핵심 설계 결정
+- 숫자, 랭킹, 인기 지표 제거 → 비교 유발 요소 차단  
+- 자유 댓글 대신 사전 정의된 칭찬만 허용 → 평가·상처 가능성 최소화  
+- 칭찬을 공개하지 않고 작성자 개인에게만 전달 → 조용한 인정 경험 설계  
+
+#### 프론트엔드 구현 포인트
+- Next.js 기반 서비스 구조 및 페이지 라우팅 설계  
+- 사용자 흐름(작성 → 감정 태그 → 칭찬 수신 → 알림 확인)을 기준으로 화면 구성  
+- React Hook Form + Zod를 활용한 입력 검증 및 안정성 확보  
+- Tailwind CSS 기반 컴포넌트 단위 UI 설계  
+
+#### 배운 점
+화면 구현보다 사용자 행동을 먼저 정의하는 것이  
+서비스 품질에 더 큰 영향을 준다는 점을 체감했습니다.  
+이후 프로젝트에서도 UI 설계 이전에 사용자 흐름과 상태 전이를 먼저 설계하는 방식을 유지하고 있습니다.
+
+---
+
 ### 📘 독서 경험 향상 및 사용자 맞춤형 도서 지원 플랫폼
-- 사용자 독서 이력을 기반으로 한 맞춤형 서비스 기획 및 구현  
-- React 기반 UI 개발 및 컴포넌트 단위 화면 구성  
-- 사용자가 흐름을 고민하지 않도록 독서 경험과 화면 전환 구조를 중심으로 설계  
 
-🔗 https://github.com/Beat-to-the-Book/FE  
-🎬 https://youtu.be/aGCYnfnQp1A
+🔗 GitHub : https://github.com/Beat-to-the-Book  
+
+#### 프로젝트 목적
+독서를 부담스럽게 느끼는 사용자를 대상으로  
+행동 데이터를 기반으로 독서 참여를 자연스럽게 유도하는 웹 서비스 구현
+
+#### 담당 역할
+- 전체 UI/UX 설계 및 프론트엔드 구현 전담  
+- 화면 상태 전이 구조 정의 및 사용자 흐름 설계  
+
+#### 구현 및 설계 포인트
+- 대여·구매·추천·게임·꾸미기 기능을 단계적으로 노출하는 화면 구조 설계  
+- 사용자 행동 데이터(스크롤 깊이, 체류 시간, 클릭 도서 등) 수집 기준 정의  
+- 추천 기능 활용을 위한 API 명세 및 데이터 스키마 문서화  
+- React 기반 컴포넌트 단위 UI 설계  
+- Three.js 기반 3D 미니게임 및 책장 꾸미기 기능 구현  
+
+#### 배운 점
+기능의 양보다 사용자 행동을 어떻게 정의하고 데이터로 구조화하느냐가  
+서비스 품질에 더 큰 영향을 준다는 점을 경험했습니다.  
+프론트엔드가 서비스 구조 설계에 적극적으로 참여해야 함을 느꼈습니다.
 
 ---
 
-### 🌱 사소하지 않아
-- 비교·경쟁 요소를 최소화하고, 칭찬이 조용히 전달되는 구조의 웹 서비스  
-- 정해진 반응만 허용하여 평가와 상처 가능성을 구조적으로 제한  
-- 사용자가 부담 없이 들어왔다가 나갈 수 있는 경험을 목표로 기획 및 개발  
+### 🤟 실시간 수어 번역 통화 시스템 (프로토타입)
 
-🔗 https://github.com/sangjuneeeee/not-trivial  
-🌐 https://not-trivial.vercel.app/
+🔗 GitHub : https://github.com/CBNU-AI-ASURA/SignLanguageModel  
 
----
+#### 프로젝트 목적
+수어를 하나의 독립된 언어로 인식하고  
+긴급 상황에서도 통역사 연결 없이 즉각적인 의사소통이 가능하도록  
+수어 인식 및 실시간 문장 생성의 기술적 가능성을 검증
 
-### 🤟 실시간 수어 번역 통화 시스템
-- 농인분들의 실시간 의사소통 문제 해결을 목표로 한 프로젝트  
-- Mediapipe 기반 수어 데이터 처리 및 실시간 번역 모델 실험  
-- 기술적 완성도보다 사용자의 실제 상황과 요구를 우선 고려  
+#### 주요 구현 내용
+- MediaPipe 기반 손·상체 관절 키포인트 추출 파이프라인 구현  
+- 관절 좌표 데이터를 시계열 데이터로 구조화  
+- CNN+LSTM, GRU 기반 수어 인식 모델 학습 및 성능 검증  
+- Catastrophic Forgetting 문제 분석 및 개선 방향 조사  
+- Python 서버와 프론트엔드 간 실시간 데이터 통신 구조 설계  
+- Web 기반 영상 통화 UI 구현 및 실시간 인식 결과 오버레이 출력  
 
-🔗 https://github.com/CBNU-AI-ASURA/SignLanguageModel
+#### 배운 점
+모델 성능뿐 아니라 데이터 다양성, 지연 시간, 신뢰도 임계값 설계가  
+실시간 서비스 적용에 매우 중요하다는 점을 경험했습니다.
 
 ---
 
 ## 🏆 Awards
-
-- 2024 공개 SW 개발자 대회 – 우수작  
 - 2024 충북 스마트 & 디지털 페스티벌 – 우수상  
 
 ---
 
-## 🔗 Contact/Links
-
-- ✉️ Email : wns1169@gmail.com
-- 📒 Velog : https://velog.io/@sangjuneeeee  
+## 🔗 Contact
+- ✉️ Email : wns1169@gmail.com  
+- ✍️ Velog : https://velog.io/@sangjuneeeee  
